@@ -4,7 +4,7 @@ import '../App.css'
 function App() {
  const position={lat:0.05182700,long:35.71991000}
   return (
-      <APIProvider>
+      <APIProvider apiKey={'AIzaSyCctTv1yocCEBTs6a8XnHcg-nAp_S1ahRI'}>
 
       </APIProvider>
 
